@@ -1,4 +1,5 @@
 Tiny-Open-Houses
 ================
 
-Resources for Tiny House enthusiasts
+Inspired by a request on http://www.reddit.com/r/TinyHouses/ this repo holds publicly available 
+building resources to jumpstart tiny house builds.
